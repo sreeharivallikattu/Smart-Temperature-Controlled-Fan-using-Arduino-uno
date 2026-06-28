@@ -50,6 +50,9 @@ The Arduino processes the analog readings and controls the DC motor through the 
 
 The motor acts as a cooling fan and automatically turns ON when temperature increases.
 
+## Project Demo Video
+
+Watch demo video here: https://youtube.com/shorts/8huVIIXQOJM?feature=share
 
 ## Thermistor Connections
 
